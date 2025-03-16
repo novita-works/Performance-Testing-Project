@@ -1,0 +1,187 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1741958444799,1211,Login Apps 1,200,OK,Setup Login Apps 1-1,text,true,,1259,296,1,1,https://thinking-tester-contact-list.herokuapp.com/users/login,1211,0,880
+1741958446078,3140,Get Contact List 1,200,OK,Load Testing Contacts 1-1,text,true,,865898,361,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts,1396,0,841
+1741958449219,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958449219,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958448077,1147,Add Contact 3,201,Created,Load Testing Contacts 1-3,text,true,,1061,693,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts,1147,0,844
+1741958448077,1147,Create and Get Contact by ID,200,"Number of samples in transaction : 1, number of failing samples : 0",Load Testing Contacts 1-3,,true,,1061,693,4,4,null,1147,1,844
+1741958447083,3137,Get Contact List 2,200,OK,Load Testing Contacts 1-2,text,true,,865886,361,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,1357,0,840
+1741958450221,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958450221,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958449220,1981,Get Contact List 1,200,OK,Load Testing Contacts 1-1,text,true,,866196,361,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts,680,0,0
+1741958451202,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958451202,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958450222,1704,Get Contact List 2,200,OK,Load Testing Contacts 1-2,text,true,,866200,361,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts,544,0,0
+1741958451926,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958451927,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958449225,2791,Get Contact List 3,200,OK,Load Testing Contacts 1-3,text,true,,866196,361,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts,553,0,0
+1741958451080,1156,Add Contact 6,201,Created,Load Testing Contacts 1-6,text,true,,1061,693,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts,1156,0,857
+1741958451079,1156,Create and Get Contact by ID,200,"Number of samples in transaction : 1, number of failing samples : 0",Load Testing Contacts 1-6,,true,,1061,693,7,7,null,1156,2,857
+1741958449084,3379,Get Contact List 4,200,OK,Load Testing Contacts 1-4,text,true,,866200,361,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts,1356,0,863
+1741958452463,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958452464,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958452016,468,Update (PUT) Contact By ID 3,200,OK,Load Testing Contacts 1-3,text,true,,1073,732,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d31155bed0013c2c2df,468,0,0
+1741958452484,305,Update (PATCH) Contact By ID 3,200,OK,Load Testing Contacts 1-3,text,true,,1084,448,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d31155bed0013c2c2df,305,0,0
+1741958452789,283,Delete Contact By ID 3,200,OK,Load Testing Contacts 1-3,text,true,,756,408,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d31155bed0013c2c2df,283,0,0
+1741958452016,1056,Update and Delete Contact by ID,200,"Number of samples in transaction : 3, number of failing samples : 0",Load Testing Contacts 1-3,,true,,2913,1588,7,7,null,1056,1,0
+1741958453073,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958453074,567,Add Contact 3,201,Created,Load Testing Contacts 1-3,text,true,,1065,693,8,8,https://thinking-tester-contact-list.herokuapp.com/contacts,567,0,0
+1741958450081,3587,Get Contact List 5,200,OK,Load Testing Contacts 1-5,text,true,,866196,361,8,8,https://thinking-tester-contact-list.herokuapp.com/contacts,1421,0,898
+1741958453668,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958453668,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958451202,2522,Get Contact List 1,200,OK,Load Testing Contacts 1-1,text,true,,866196,361,8,8,https://thinking-tester-contact-list.herokuapp.com/contacts,510,0,0
+1741958453725,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958453725,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958453642,297,Get Contact By ID 3,200,OK,Load Testing Contacts 1-3,text,true,,1060,386,8,8,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d35155bed0013c2c2e1,297,0,0
+1741958453074,864,Create and Get Contact by ID,200,"Number of samples in transaction : 2, number of failing samples : 0",Load Testing Contacts 1-3,,true,,2125,1079,8,8,null,864,2,0
+1741958451927,2021,Get Contact List 2,200,OK,Load Testing Contacts 1-2,text,true,,866502,361,8,8,https://thinking-tester-contact-list.herokuapp.com/contacts,533,0,0
+1741958453949,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958453949,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958452464,1935,Get Contact List 4,200,OK,Load Testing Contacts 1-4,text,true,,866530,361,9,9,https://thinking-tester-contact-list.herokuapp.com/contacts,518,0,0
+1741958454400,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958454400,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958452237,2258,Get Contact List 6,200,OK,Load Testing Contacts 1-6,text,true,,866519,361,9,9,https://thinking-tester-contact-list.herokuapp.com/contacts,512,0,0
+1741958454495,328,Update (PUT) Contact By ID 6,200,OK,Load Testing Contacts 1-6,text,true,,1073,732,9,9,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d34155bed0013c2c2e0,328,0,0
+1741958454824,310,Update (PATCH) Contact By ID 6,200,OK,Load Testing Contacts 1-6,text,true,,1084,448,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d34155bed0013c2c2e0,310,0,0
+1741958454082,1195,Add Contact 9,201,Created,Load Testing Contacts 1-9,text,true,,1069,693,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,1195,0,885
+1741958454082,1195,Create and Get Contact by ID,200,"Number of samples in transaction : 1, number of failing samples : 0",Load Testing Contacts 1-9,,true,,1069,693,10,10,null,1195,0,885
+1741958455134,316,Delete Contact By ID 6,200,OK,Load Testing Contacts 1-6,text,true,,764,408,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d34155bed0013c2c2e0,316,0,0
+1741958454495,954,Update and Delete Contact by ID,200,"Number of samples in transaction : 3, number of failing samples : 0",Load Testing Contacts 1-6,,true,,2921,1588,10,10,null,954,1,0
+1741958455450,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958455450,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958453669,1948,Get Contact List 5,200,OK,Load Testing Contacts 1-5,text,true,,866506,361,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,582,0,0
+1741958455617,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958455617,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958453949,2054,Get Contact List 2,200,OK,Load Testing Contacts 1-2,text,true,,866502,361,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,595,0,0
+1741958456003,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958453940,2091,Get Contact List 3,200,OK,Load Testing Contacts 1-3,text,true,,866502,361,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,594,0,0
+1741958453725,2334,Get Contact List 1,200,OK,Load Testing Contacts 1-1,text,true,,866506,361,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,554,0,0
+1741958456060,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958456060,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958456031,286,Update (PUT) Contact By ID 3,200,OK,Load Testing Contacts 1-3,text,true,,1073,784,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d35155bed0013c2c2e1,286,0,0
+1741958454400,1995,Get Contact List 4,200,OK,Load Testing Contacts 1-4,text,true,,866502,361,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,543,0,0
+1741958456396,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958456396,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958456003,423,Add Contact 2,201,Created,Load Testing Contacts 1-2,text,true,,1061,693,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,423,0,0
+1741958456003,423,Create and Get Contact by ID,200,"Number of samples in transaction : 1, number of failing samples : 0",Load Testing Contacts 1-2,,true,,1061,693,10,10,null,423,1,0
+1741958456317,286,Update (PATCH) Contact By ID 3,200,OK,Load Testing Contacts 1-3,text,true,,1084,500,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d35155bed0013c2c2e1,286,0,0
+1741958455450,1433,Get Contact List 6,200,OK,Load Testing Contacts 1-6,text,true,,866510,361,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,547,0,0
+1741958456884,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958456884,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958456603,281,Delete Contact By ID 3,200,OK,Load Testing Contacts 1-3,text,true,,756,460,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d35155bed0013c2c2e1,281,0,0
+1741958456031,853,Update and Delete Contact by ID,200,"Number of samples in transaction : 3, number of failing samples : 0",Load Testing Contacts 1-3,,true,,2913,1744,10,10,null,853,0,0
+1741958456885,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958456886,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958455278,2348,Get Contact List 9,200,OK,Load Testing Contacts 1-9,text,true,,866510,361,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,506,0,0
+1741958453082,4687,Get Contact List 8,200,OK,Load Testing Contacts 1-8,text,true,,866502,361,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,1616,0,904
+1741958457770,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958457627,311,Update (PUT) Contact By ID 9,200,OK,Load Testing Contacts 1-9,text,true,,1069,732,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d37ec1f870013740a98,311,0,0
+1741958457771,324,Add Contact 8,201,Created,Load Testing Contacts 1-8,text,true,,1057,693,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,324,0,0
+1741958457771,324,Create and Get Contact by ID,200,"Number of samples in transaction : 1, number of failing samples : 0",Load Testing Contacts 1-8,,true,,1057,693,10,10,null,324,0,0
+1741958455080,3014,Get Contact List 10,200,OK,Load Testing Contacts 1-10,text,true,,866502,361,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,1324,0,826
+1741958458095,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958458095,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958456396,1763,Get Contact List 4,200,OK,Load Testing Contacts 1-4,text,true,,866836,361,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,532,0,0
+1741958458160,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958458160,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958456060,2125,Get Contact List 1,200,OK,Load Testing Contacts 1-1,text,true,,866825,361,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,638,0,0
+1741958457938,344,Update (PATCH) Contact By ID 9,200,OK,Load Testing Contacts 1-9,text,true,,1080,448,9,9,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d37ec1f870013740a98,344,0,0
+1741958452077,6268,Get Contact List 7,200,OK,Load Testing Contacts 1-7,text,true,,866200,361,9,9,https://thinking-tester-contact-list.herokuapp.com/contacts,1565,0,901
+1741958458346,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958458347,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958455617,2784,Get Contact List 5,200,OK,Load Testing Contacts 1-5,text,true,,866510,361,9,9,https://thinking-tester-contact-list.herokuapp.com/contacts,571,0,0
+1741958458402,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958458402,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958458283,414,Delete Contact By ID 9,200,OK,Load Testing Contacts 1-9,text,true,,752,408,9,9,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d37ec1f870013740a98,414,0,0
+1741958457627,1069,Update and Delete Contact by ID,200,"Number of samples in transaction : 3, number of failing samples : 0",Load Testing Contacts 1-9,,true,,2901,1588,9,9,null,1069,1,0
+1741958458697,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958456884,1892,Get Contact List 6,200,OK,Load Testing Contacts 1-6,text,true,,866498,361,9,9,https://thinking-tester-contact-list.herokuapp.com/contacts,487,0,0
+1741958458776,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958458777,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958458698,346,Add Contact 9,201,Created,Load Testing Contacts 1-9,text,true,,1057,693,9,9,https://thinking-tester-contact-list.herokuapp.com/contacts,346,0,0
+1741958458698,346,Create and Get Contact by ID,200,"Number of samples in transaction : 1, number of failing samples : 0",Load Testing Contacts 1-9,,true,,1057,693,9,9,null,346,0,0
+1741958456886,2226,Get Contact List 3,200,OK,Load Testing Contacts 1-3,text,true,,866498,361,9,9,https://thinking-tester-contact-list.herokuapp.com/contacts,552,0,0
+1741958459112,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958459113,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958456427,2770,Get Contact List 2,200,OK,Load Testing Contacts 1-2,text,true,,866502,361,9,9,https://thinking-tester-contact-list.herokuapp.com/contacts,668,0,0
+1741958459199,297,Update (PUT) Contact By ID 2,200,OK,Load Testing Contacts 1-2,text,true,,1073,732,9,9,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d38155bed0013c2c2e2,297,0,0
+1741958459496,297,Update (PATCH) Contact By ID 2,200,OK,Load Testing Contacts 1-2,text,true,,1084,448,9,9,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d38155bed0013c2c2e2,297,0,0
+1741958459793,296,Delete Contact By ID 2,200,OK,Load Testing Contacts 1-2,text,true,,756,408,9,9,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d38155bed0013c2c2e2,296,0,0
+1741958459199,890,Update and Delete Contact by ID,200,"Number of samples in transaction : 3, number of failing samples : 0",Load Testing Contacts 1-2,,true,,2913,1588,9,9,null,890,0,0
+1741958458095,2292,Get Contact List 8,200,OK,Load Testing Contacts 1-8,text,true,,866832,361,8,8,https://thinking-tester-contact-list.herokuapp.com/contacts,708,0,0
+1741958458161,2322,Get Contact List 4,200,OK,Load Testing Contacts 1-4,text,true,,866832,361,8,8,https://thinking-tester-contact-list.herokuapp.com/contacts,528,0,0
+1741958458096,2473,Get Contact List 10,200,OK,Load Testing Contacts 1-10,text,true,,866832,361,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts,495,0,0
+1741958460569,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958460569,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958460387,319,Update (PUT) Contact By ID 8,200,OK,Load Testing Contacts 1-8,text,true,,1077,732,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d39ec1f870013740a99,319,0,0
+1741958460706,320,Update (PATCH) Contact By ID 8,200,OK,Load Testing Contacts 1-8,text,true,,1088,448,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d39ec1f870013740a99,320,0,0
+1741958458402,2757,Get Contact List 5,200,OK,Load Testing Contacts 1-5,text,true,,866498,361,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts,542,0,0
+1741958461159,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958461159,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958461026,319,Delete Contact By ID 8,200,OK,Load Testing Contacts 1-8,text,true,,772,408,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d39ec1f870013740a99,319,0,0
+1741958460387,958,Update and Delete Contact by ID,200,"Number of samples in transaction : 3, number of failing samples : 0",Load Testing Contacts 1-8,,true,,2937,1588,7,7,null,958,0,0
+1741958461346,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958458347,3165,Get Contact List 7,200,OK,Load Testing Contacts 1-7,text,true,,866498,361,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts,691,0,0
+1741958461512,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958461512,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958459044,2653,Get Contact List 9,200,OK,Load Testing Contacts 1-9,text,true,,866808,361,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts,530,0,0
+1741958461347,379,Add Contact 8,201,Created,Load Testing Contacts 1-8,text,true,,1077,693,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts,379,0,0
+1741958459113,2640,Get Contact List 3,200,OK,Load Testing Contacts 1-3,text,true,,866825,361,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts,675,0,0
+1741958461754,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958461754,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958461697,310,Update (PUT) Contact By ID 9,200,OK,Load Testing Contacts 1-9,text,true,,1089,732,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d3aec1f870013740a9a,310,0,0
+1741958461727,394,Get Contact By ID 8,200,OK,Load Testing Contacts 1-8,text,true,,1072,386,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d3dec1f870013740a9b,394,0,0
+1741958461347,773,Create and Get Contact by ID,200,"Number of samples in transaction : 2, number of failing samples : 0",Load Testing Contacts 1-8,,true,,2149,1079,7,7,null,773,1,0
+1741958458777,3361,Get Contact List 6,200,OK,Load Testing Contacts 1-6,text,true,,866804,361,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts,526,0,0
+1741958462138,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958462138,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958462006,472,Update (PATCH) Contact By ID 9,200,OK,Load Testing Contacts 1-9,text,true,,1084,448,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d3aec1f870013740a9a,472,0,0
+1741958460570,1937,Get Contact List 10,200,OK,Load Testing Contacts 1-10,text,true,,866523,361,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts,566,0,0
+1741958462506,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958462506,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958462478,497,Delete Contact By ID 9,200,OK,Load Testing Contacts 1-9,text,true,,756,408,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d3aec1f870013740a9a,497,0,0
+1741958461697,1279,Update and Delete Contact by ID,200,"Number of samples in transaction : 3, number of failing samples : 0",Load Testing Contacts 1-9,,true,,2929,1588,7,7,null,1279,0,0
+1741958462975,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958462976,326,Add Contact 9,201,Created,Load Testing Contacts 1-9,text,true,,1061,693,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts,326,0,0
+1741958462976,326,Create and Get Contact by ID,200,"Number of samples in transaction : 1, number of failing samples : 0",Load Testing Contacts 1-9,,true,,1061,693,7,7,null,326,1,0
+1741958461160,3090,Get Contact List 5,200,OK,Load Testing Contacts 1-5,text,true,,866212,361,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts,566,0,0
+1741958461513,3086,Get Contact List 7,200,OK,Load Testing Contacts 1-7,text,true,,866518,361,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts,585,0,0
+1741958464599,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958464599,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958462506,2110,Get Contact List 10,200,OK,Load Testing Contacts 1-10,text,true,,866196,361,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts,710,0,0
+1741958464616,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958464617,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958462121,2737,Get Contact List 8,200,OK,Load Testing Contacts 1-8,text,true,,866530,361,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts,837,0,0
+1741958461754,3206,Get Contact List 3,200,OK,Load Testing Contacts 1-3,text,true,,866535,361,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts,682,0,0
+1741958463303,1746,Get Contact List 9,200,OK,Load Testing Contacts 1-9,text,true,,866502,361,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,555,0,0
+1741958462138,3242,Get Contact List 6,200,OK,Load Testing Contacts 1-6,text,true,,866530,361,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,592,0,0
+1741958464858,613,Update (PUT) Contact By ID 8,200,OK,Load Testing Contacts 1-8,text,true,,1077,784,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d3dec1f870013740a9b,613,0,0
+1741958465049,426,Update (PUT) Contact By ID 9,200,OK,Load Testing Contacts 1-9,text,true,,1077,732,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d3f155bed0013c2c2e3,426,0,0
+1741958465475,312,Update (PATCH) Contact By ID 9,200,OK,Load Testing Contacts 1-9,text,true,,1088,448,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d3f155bed0013c2c2e3,312,0,0
+1741958465471,327,Update (PATCH) Contact By ID 8,200,OK,Load Testing Contacts 1-8,text,true,,1088,500,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d3dec1f870013740a9b,327,0,0
+1741958465787,319,Delete Contact By ID 9,200,OK,Load Testing Contacts 1-9,text,true,,760,408,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d3f155bed0013c2c2e3,319,0,0
+1741958465049,1057,Update and Delete Contact by ID,200,"Number of samples in transaction : 3, number of failing samples : 0",Load Testing Contacts 1-9,,true,,2925,1588,4,4,null,1057,0,0
+1741958466106,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958466106,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958465799,316,Delete Contact By ID 8,200,OK,Load Testing Contacts 1-8,text,true,,760,460,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d3dec1f870013740a9b,316,0,0
+1741958464858,1256,Update and Delete Contact by ID,200,"Number of samples in transaction : 3, number of failing samples : 0",Load Testing Contacts 1-8,,true,,2925,1744,4,4,null,1256,1,0
+1741958466115,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958466116,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958464617,2278,Get Contact List 10,200,OK,Load Testing Contacts 1-10,text,true,,866498,361,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts,654,0,0
+1741958464599,2741,Get Contact List 7,200,OK,Load Testing Contacts 1-7,text,true,,866498,361,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts,862,0,0
+1741958467341,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958467342,315,Add Contact 7,201,Created,Load Testing Contacts 1-7,text,true,,1057,693,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts,315,0,0
+1741958467341,315,Create and Get Contact by ID,200,"Number of samples in transaction : 1, number of failing samples : 0",Load Testing Contacts 1-7,,true,,1057,693,3,3,null,315,2,0
+1741958466106,2083,Get Contact List 9,200,OK,Load Testing Contacts 1-9,text,true,,865902,361,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts,572,0,0
+1741958468190,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958468190,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958466116,2335,Get Contact List 8,200,OK,Load Testing Contacts 1-8,text,true,,865902,361,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts,508,0,0
+1741958468452,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958468452,0,Create and Get Contact by ID,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1741958467658,2059,Get Contact List 7,200,OK,Load Testing Contacts 1-7,text,true,,866192,361,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts,535,0,0
+1741958469718,318,Update (PUT) Contact By ID 7,200,OK,Load Testing Contacts 1-7,text,true,,1085,732,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d43ec1f870013740a9c,318,0,0
+1741958470036,331,Update (PATCH) Contact By ID 7,200,OK,Load Testing Contacts 1-7,text,true,,1080,448,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d43ec1f870013740a9c,331,0,0
+1741958470367,325,Delete Contact By ID 7,200,OK,Load Testing Contacts 1-7,text,true,,752,408,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts/67d42d43ec1f870013740a9c,325,0,0
+1741958469718,974,Update and Delete Contact by ID,200,"Number of samples in transaction : 3, number of failing samples : 0",Load Testing Contacts 1-7,,true,,2917,1588,3,3,null,974,1,0
+1741958468452,3024,Get Contact List 8,200,OK,Load Testing Contacts 1-8,text,true,,866192,361,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts,541,0,0
+1741958468190,3529,Get Contact List 9,200,OK,Load Testing Contacts 1-9,text,true,,866192,361,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts,532,0,0
